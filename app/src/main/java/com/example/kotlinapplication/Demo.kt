@@ -1,9 +1,48 @@
 package com.example.kotlinapplication
 
-import com.example.kotlinapplication.objecttest.AsyncTaskAlternative
-import getDeviceInfo
+import DevicePools.getDeviceInfo
+import android.util.Log
+import org.simpleframework.xml.Serializer
+import org.simpleframework.xml.core.Persister
+import org.xmlpull.v1.XmlPullParser
+import org.xmlpull.v1.XmlPullParserFactory
+import java.lang.Exception
 import java.util.*
 import kotlin.properties.Delegates
+fun <T> xml2Java(file:String){
+    try {
+
+        val factory = XmlPullParserFactory.newInstance()
+
+        val newPullParser = factory.newPullParser()
+
+//        newPullParser.setInput(assets.open(file))
+
+        var eventType = newPullParser.eventType
+
+        var cityName = ""
+
+        var weather = ""
+
+        while (eventType != XmlPullParser.END_DOCUMENT){
+            when(eventType){
+                XmlPullParser.START_TAG->
+                    when(newPullParser.name){
+                        "city"->cityName = newPullParser.nextText()
+                    }
+                XmlPullParser.END_TAG->
+                    if(newPullParser.name == "aomen"){
+                        Log.e("tag",""+cityName)
+                    }
+            }
+            eventType = newPullParser.next()
+        }
+
+    }catch (e: Exception){
+        Log.e("tag","解析错误 ${e}")
+    }
+}
+
 
 fun main(args:Array<String>) {
     var demo = Demo("")
@@ -21,7 +60,7 @@ fun main(args:Array<String>) {
     println(person.name)
 
     var device = Device("device1",1,"12-56-98-78-98-98")
-    DevicePools.INSTANCE.insertDevice(device)
+    DevicePools.insertDevice(device)
 
     println("the size of List is "+ getDeviceInfo(0).name)
 
@@ -60,7 +99,7 @@ fun main(args:Array<String>) {
 
     println("${o.checkContent}")
 
-    val user:User1 = User1(mapOf("name" to "Kotlin","age" to 32))
+    val user = User1(mapOf("name" to "Kotlin","age" to 32))
     println(user.name)
 
 
@@ -68,26 +107,25 @@ fun main(args:Array<String>) {
     var plane = Plane()
     plane.flyBy()
 
-    AsyncTaskAlternative.doInBackground(
-        {
-            val result = "123456"
-            println("I will get the winner11")
-            result
-        },{
-            println("I will get the winner22")
-            if (it.equals("123456")){
-                println("I will get the winner")
-            }
-        }
-    )
-
+    //数据类使用
     val clother = Clother("male",42,"cotton","nature")
     val gender = clother.gender
     val size = clother.size
     val compose = clother.compose
     val style = clother.style
     println("the info of clother is gender :"+gender+",size :"+size+",compose :"+compose+",sytle :"+ style)
+
+
+    val serializer: Serializer = Persister()
+    val dataFetch = serializer.read(DataFetch::class.java, SimpleXmlTest.xmlToParse)
+    println("the dataFetch is  :"+dataFetch.REC.listCol[0].name)
+
+//    testLooperbreak()
+
+    DocumentProcess.readFile()
+
 }
+
 
 data class Clother(var gender:String,var size:Int,var compose:String,var style:String)
 
@@ -217,10 +255,12 @@ class O{
     //这个变量有变化不符合规则就拦截,不进行修改
     var checkContent:String by Delegates.vetoable("I love my home"){
         property, oldValue, newValue ->
-        if (newValue.contains("kill")){
-            false
+        var result = true
+        if (oldValue.contains("kill")){
+            //符合条件就拦截
+            result = false
         }
-        true
+        result
     }
 }
 //属性映射 委托
@@ -241,11 +281,13 @@ class Demo constructor(content: String?) {
 //        cont = value
 //    }
 
+    //函数调用
     fun speakSomething(content:String?){
         cont = content
         println("the value is $cont")
     }
 
+    //循坏
     var array:Array<Int> = arrayOf(1,2,3,4,5)
     fun showArray(array: Array<Int>){
         for (i in array){
@@ -253,22 +295,35 @@ class Demo constructor(content: String?) {
         }
     }
 
+    //泛型使用
     fun <T> printArrays(arr:Array<T> ){
         println(Arrays.toString(arr))
     }
 
+    //函数可以直接返回值
     fun area(width:Int,heigth:Int):Int = width * heigth
 
     fun sayHi(name:String = "World",age:Int) = println("Hi : $name,your age is $age .")
 
+    //函数包含函数
     fun login(username:String,pwd:String,illegalStr: String):Boolean{
         fun validate1(pwd: String):Boolean {
-            if (!"".equals(illegalStr) && "admin".equals(username) && pwd.equals("12345")){
+            if (!"".equals(illegalStr) && "admin" == username && pwd == "12345"){
                 return true
             }
             return false
         }
         return validate1(pwd)
     }
+}
 
+fun testLooperbreak(){
+    run breaking@{
+        (0..10).forEach {
+            Log.e("tag11","it: "+it)
+            if(it > 5)
+                return@breaking
+                Log.e("tag1","it: "+it)
+        }
+    }
 }

@@ -1,0 +1,241 @@
+2022-01-10 14:06:18.003 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AF,enName =Afghanistan,code = 93
+2022-01-10 14:06:18.012 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AX,enName =Åland Islands,code = 358
+2022-01-10 14:06:18.003 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AL,enName =Albania,code = 355
+2022-01-10 14:06:18.003 29833-29833/com.example.kotlinapplication E/getCountriesList: name =DZ,enName =Algeria,code = 213
+2022-01-10 14:06:18.003 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AS,enName =American Samoa,code = 684
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AD,enName =Andorra,code = 376
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AO,enName =Angola,code = 244
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AI,enName =Anguilla,code = 1264
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AG,enName =Antigua & Barbuda,code = 1268
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AR,enName =Argentina,code = 54
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AM,enName =Armenia,code = 374
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AW,enName =Aruba,code = 297
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AU,enName =Australia,code = 61
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AT,enName =Austria,code = 43
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AZ,enName =Azerbaijan,code = 994
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BS,enName =Bahamas,code = 1242
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BH,enName =Bahrain,code = 973
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BD,enName =Bangladesh,code = 880
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BB,enName =Barbados,code = 1246
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BY,enName =Belarus,code = 375
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BE,enName =Belgium,code = 32
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BZ,enName =Belize,code = 501
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BJ,enName =Benin,code = 229
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BM,enName =Bermuda,code = 1441
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BT,enName =Bhutan,code = 975
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BO,enName =Bolivia,code = 591
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BA,enName =Bosnia & Herzegovina,code = 387
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BW,enName =Botswana,code = 267
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BR,enName =Brazil,code = 55
+2022-01-10 14:06:18.004 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IO,enName =British Indian Ocean Territory,code = 246
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =VG,enName =British Virgin Islands,code = 1284
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BN,enName =Brunei,code = 673
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BG,enName =Bulgaria,code = 359
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BF,enName =Burkina Faso,code = 226
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BI,enName =Burundi,code = 257
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KH,enName =Cambodia,code = 855
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CM,enName =Cameroon,code = 237
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CA,enName =Canada,code = 1
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CV,enName =Cape Verde,code = 238
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BQ,enName =Caribbean Netherlands,code = 599
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KY,enName =Cayman Islands,code = 1345
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CF,enName =Central African Republic,code = 236
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TD,enName =Chad,code = 235
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CL,enName =Chile,code = 56
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CN,enName =China,code = 86
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CX,enName =Christmas Island,code = 61
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CC,enName =Cocos (Keeling) Islands,code = 61
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CO,enName =Colombia,code = 57
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KM,enName =Comoros,code = 269
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CG,enName =Congo - Brazzaville,code = 242
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CD,enName =Congo - Kinshasa,code = 243
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CK,enName =Cook Islands,code = 682
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CR,enName =Costa Rica,code = 506
+2022-01-10 14:06:18.005 29833-29833/com.example.kotlinapplication E/getCountriesList: name =HR,enName =Croatia,code = 385
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CU,enName =Cuba,code = 53
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CW,enName =Curaçao,code = 670
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CY,enName =Cyprus,code = 357
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CZ,enName =Czechia,code = 420
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CI,enName =Côte d’Ivoire,code = 225
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =DK,enName =Denmark,code = 45
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =DJ,enName =Djibouti,code = 253
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =DM,enName =Dominica,code = 1767
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =EC,enName =Ecuador,code = 593
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =EG,enName =Egypt,code = 20
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SV,enName =El Salvador,code = 503
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GQ,enName =Equatorial Guinea,code = 240
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ER,enName =Eritrea,code = 291
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =EE,enName =Estonia,code = 372
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SZ,enName =Eswatini,code = 268
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ET,enName =Ethiopia,code = 251
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =FK,enName =Falkland Islands (Islas Malvinas),code = 500
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =FO,enName =Faroe Islands,code = 298
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =FJ,enName =Fiji,code = 679
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =FI,enName =Finland,code = 358
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =FR,enName =France,code = 33
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GF,enName =French Guiana,code = 594
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PF,enName =French Polynesia,code = 689
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GA,enName =Gabon,code = 241
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GM,enName =Gambia,code = 220
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GE,enName =Georgia,code = 995
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =DE,enName =Germany,code = 49
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GH,enName =Ghana,code = 233
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GI,enName =Gibraltar,code = 350
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GR,enName =Greece,code = 30
+2022-01-10 14:06:18.006 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GL,enName =Greenland,code = 299
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GD,enName =Grenada,code = 1473
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GP,enName =Guadeloupe,code = 590
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GU,enName =Guam,code = 1671
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GT,enName =Guatemala,code = 502
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GG,enName =Guernsey,code = 1481
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GN,enName =Guinea,code = 224
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GW,enName =Guinea-Bissau,code = 245
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GY,enName =Guyana,code = 592
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =HT,enName =Haiti,code = 509
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =HN,enName =Honduras,code = 504
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =HK,enName =Hong Kong,code = 852
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =HU,enName =Hungary,code = 36
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IS,enName =Iceland,code = 354
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IN,enName =India,code = 91
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ID,enName =Indonesia,code = 62
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IR,enName =Iran,code = 98
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IQ,enName =Iraq,code = 964
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IE,enName =Ireland,code = 353
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IM,enName =Isle of Man,code = 44
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IL,enName =Israel,code = 972
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =IT,enName =Italy,code = 39
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =JM,enName =Jamaica,code = 1876
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =JP,enName =Japan,code = 81
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =JE,enName =Jersey,code = 44
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =JO,enName =Jordan,code = 962
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KZ,enName =Kazakhstan,code = 73
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KE,enName =Kenya,code = 254
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KI,enName =Kiribati,code = 686
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KW,enName =Kuwait,code = 965
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KG,enName =Kyrgyzstan,code = 996
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LA,enName =Laos,code = 856
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LV,enName =Latvia,code = 371
+2022-01-10 14:06:18.007 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LB,enName =Lebanon,code = 961
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LS,enName =Lesotho,code = 266
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LR,enName =Liberia,code = 231
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LY,enName =Libya,code = 218
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LI,enName =Liechtenstein,code = 423
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LT,enName =Lithuania,code = 370
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LU,enName =Luxembourg,code = 352
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MO,enName =Macao,code = 853
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MG,enName =Madagascar,code = 261
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MW,enName =Malawi,code = 265
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MY,enName =Malaysia,code = 60
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MV,enName =Maldives,code = 960
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ML,enName =Mali,code = 223
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MT,enName =Malta,code = 356
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MH,enName =Marshall Islands,code = 692
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MQ,enName =Martinique,code = 596
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MR,enName =Mauritania,code = 222
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MU,enName =Mauritius,code = 230
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =YT,enName =Mayotte,code = 262
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MX,enName =Mexico,code = 52
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =FM,enName =Micronesia,code = 691
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MD,enName =Moldova,code = 373
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MC,enName =Monaco,code = 377
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MN,enName =Mongolia,code = 976
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ME,enName =Montenegro,code = 382
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MS,enName =Montserrat,code = 1664
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MA,enName =Morocco,code = 212
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MZ,enName =Mozambique,code = 258
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MM,enName =Myanmar (Burma),code = 95
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NA,enName =Namibia,code = 264
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NR,enName =Nauru,code = 674
+2022-01-10 14:06:18.008 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NP,enName =Nepal,code = 977
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NL,enName =Netherlands,code = 31
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NC,enName =New Caledonia,code = 687
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NZ,enName =New Zealand,code = 64
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NI,enName =Nicaragua,code = 505
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NE,enName =Niger,code = 227
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NG,enName =Nigeria,code = 234
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NU,enName =Niue,code = 683
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NF,enName =Norfolk Island,code = 672
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KP,enName =North Korea,code = 850
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MK,enName =North Macedonia,code = 389
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MP,enName =Northern Mariana Islands,code = 1
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =NO,enName =Norway,code = 47
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =OM,enName =Oman,code = 968
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PK,enName =Pakistan,code = 92
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PW,enName =Palau,code = 680
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PS,enName =Palestine,code = 970
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PA,enName =Panama,code = 507
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PG,enName =Papua New Guinea,code = 675
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PY,enName =Paraguay,code = 595
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PE,enName =Peru,code = 51
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PH,enName =Philippines,code = 63
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PL,enName =Poland,code = 48
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PT,enName =Portugal,code = 351
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PR,enName =Puerto Rico,code = 1809
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =QA,enName =Qatar,code = 974
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =RO,enName =Romania,code = 40
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =RU,enName =Russia,code = 7
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =RW,enName =Rwanda,code = 250
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =RE,enName =Réunion,code = 262
+2022-01-10 14:06:18.009 29833-29833/com.example.kotlinapplication E/getCountriesList: name =WS,enName =Samoa,code = 685
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SM,enName =San Marino,code = 378
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SA,enName =Saudi Arabia,code = 966
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SN,enName =Senegal,code = 221
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =RS,enName =Serbia,code = 381
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SC,enName =Seychelles,code = 248
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SL,enName =Sierra Leone,code = 232
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SG,enName =Singapore,code = 65
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SX,enName =Sint Maarten,code = 599
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SK,enName =Slovakia,code = 421
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SI,enName =Slovenia,code = 386
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SB,enName =Solomon Islands,code = 677
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SO,enName =Somalia,code = 252
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ZA,enName =South Africa,code = 27
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KR,enName =South Korea,code = 82
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SS,enName =South Sudan,code = 211
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ES,enName =Spain,code = 34
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LK,enName =Sri Lanka,code = 94
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =BL,enName =St. Barthélemy,code = 590
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SH,enName =St. Helena,code = 290
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =KN,enName =St. Kitts & Nevis,code = 1869
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =LC,enName =St. Lucia,code = 1758
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =MF,enName =St. Martin,code = 590
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =PM,enName =St. Pierre & Miquelon,code = 508
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =VC,enName =St. Vincent & Grenadines,code = 1784
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SD,enName =Sudan,code = 249
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SR,enName =Suriname,code = 597
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SJ,enName =Svalbard & Jan Mayen,code = 47
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SE,enName =Sweden,code = 46
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =CH,enName =Switzerland,code = 41
+2022-01-10 14:06:18.010 29833-29833/com.example.kotlinapplication E/getCountriesList: name =SY,enName =Syria,code = 963
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ST,enName =São Tomé & Príncipe,code = 239
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TW,enName =Taiwan,code = 886
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TJ,enName =Tajikistan,code = 992
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TZ,enName =Tanzania,code = 255
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TH,enName =Thailand,code = 66
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TL,enName =Timor-Leste,code = 670
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TG,enName =Togo,code = 228
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TK,enName =Tokelau,code = 690
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TO,enName =Tonga,code = 676
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TT,enName =Trinidad & Tobago,code = 1868
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TN,enName =Tunisia,code = 216
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TR,enName =Turkey,code = 90
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TM,enName =Turkmenistan,code = 993
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TC,enName =Turks & Caicos Islands,code = 1649
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =TV,enName =Tuvalu,code = 688
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =VI,enName =U.S. Virgin Islands,code = 1340
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =UG,enName =Uganda,code = 256
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =UA,enName =Ukraine,code = 380
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =AE,enName =United Arab Emirates,code = 971
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =GB,enName =United Kingdom,code = 44
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =US,enName =United States,code = 1
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =UY,enName =Uruguay,code = 598
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =UZ,enName =Uzbekistan,code = 998
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =VU,enName =Vanuatu,code = 678
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =VA,enName =Vatican City,code = 379
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =VE,enName =Venezuela,code = 58
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =VN,enName =Vietnam,code = 84
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =WF,enName =Wallis & Futuna,code = 681
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =EH,enName =Western Sahara,code = 212
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =YE,enName =Yemen,code = 967
+2022-01-10 14:06:18.011 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ZM,enName =Zambia,code = 260
+2022-01-10 14:06:18.012 29833-29833/com.example.kotlinapplication E/getCountriesList: name =ZW,enName =Zimbabwe,code = 263

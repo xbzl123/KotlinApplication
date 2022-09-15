@@ -11,8 +11,9 @@ object CompanionExample {
         println("I am a object!"+"my name is "+ name)
     }
 }
+//协程切换线程
 object AsyncTaskAlternative {
-    fun  doInBackground(processing: () -> String?, callback: (data: String?) -> Unit) {
+     fun <T> doInBackground(processing: () -> T?, callback: (data: T?) -> Unit) {
         GlobalScope.launch(Dispatchers.IO) {
             // do long running task here
             val result = processing.invoke()

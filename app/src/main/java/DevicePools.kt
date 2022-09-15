@@ -1,13 +1,12 @@
 import com.example.kotlinapplication.Device
 
-enum class DevicePools {
-    INSTANCE;
+object DevicePools {
     var devices = arrayListOf<Device>()
-    open fun insertDevice(device: Device){
+    fun insertDevice(device: Device){
         devices.add(device)
+    }
+    fun getDeviceInfo(id: Int):Device{
+        return devices.get(id)
     }
 }
 
-fun getDeviceInfo(id: Int):Device{
-    return DevicePools.INSTANCE.devices.get(id)
-}

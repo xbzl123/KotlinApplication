@@ -1,0 +1,5 @@
+<aomen dn="day">
+<city cityX="282.75" cityY="98.15" cityname="澳门" centername="澳门" fontColor="FFFF00" pyName="aomen" state1="0" state2="0" stateDetailed="晴" tem1="21" tem2="14" temNow="18" windState="微风转北风微风级" windDir="暂无实况" windPower="暂无实况" humidity="暂无实况" time="08:00" url="101330101"/>
+<city cityX="320.9" cityY="262.7" cityname="氹仔岛" centername="氹仔岛" fontColor="FFFFFF" pyName="dangzaidao" state1="0" state2="0" stateDetailed="晴" tem1="21" tem2="14" temNow="18" windState="微风转北风微风级" windDir="暂无实况" windPower="暂无实况" humidity="暂无实况" time="08:00" url="101330102"/>
+<city cityX="339.1" cityY="382.7" cityname="路环岛" centername="路环岛" fontColor="FFFFFF" pyName="luhuandao" state1="0" state2="0" stateDetailed="晴" tem1="21" tem2="14" temNow="18" windState="微风转北风微风级" windDir="暂无实况" windPower="暂无实况" humidity="暂无实况" time="08:00" url="101330103"/>
+</aomen>

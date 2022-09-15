@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>@string/AF</item>
+        <item>@string/AX</item>
+        <item>@string/AL</item>
+        <item>@string/DZ</item>
+        <item>@string/AS</item>
+        <item>@string/AD</item>
+        <item>@string/AO</item>
+        <item>@string/AI</item>
+        <item>@string/AG</item>
+        <item>@string/AR</item>
+        <item>@string/AM</item>
+        <item>@string/AW</item>
+        <item>@string/AU</item>
+        <item>@string/AT</item>
+        <item>@string/AZ</item>
+        <item>@string/BS</item>
+        <item>@string/BH</item>
+        <item>@string/BD</item>
+        <item>@string/BB</item>
+        <item>@string/BY</item>
+        <item>@string/BE</item>
+        <item>@string/BZ</item>
+        <item>@string/BJ</item>
+        <item>@string/BM</item>
+        <item>@string/BT</item>
+        <item>@string/BO</item>
+        <item>@string/BA</item>
+        <item>@string/BW</item>
+        <item>@string/BR</item>
+        <item>@string/IO</item>
+        <item>@string/VG</item>
+        <item>@string/BN</item>
+        <item>@string/BG</item>
+        <item>@string/BF</item>
+        <item>@string/BI</item>
+        <item>@string/KH</item>
+        <item>@string/CM</item>
+        <item>@string/CA</item>
+        <item>@string/CV</item>
+        <item>@string/BQ</item>
+        <item>@string/KY</item>
+        <item>@string/CF</item>
+        <item>@string/TD</item>
+        <item>@string/CL</item>
+        <item>@string/CN</item>
+        <item>@string/CX</item>
+        <item>@string/CC</item>
+        <item>@string/CO</item>
+        <item>@string/KM</item>
+        <item>@string/CG</item>
+        <item>@string/CD</item>
+        <item>@string/CK</item>
+        <item>@string/CR</item>
+        <item>@string/HR</item>
+        <item>@string/CU</item>
+        <item>@string/CW</item>
+        <item>@string/CY</item>
+        <item>@string/CZ</item>
+        <item>@string/CI</item>
+        <item>@string/DK</item>
+        <item>@string/DJ</item>
+        <item>@string/DM</item>
+        <item>@string/EC</item>
+        <item>@string/EG</item>
+        <item>@string/SV</item>
+        <item>@string/GQ</item>
+        <item>@string/ER</item>
+        <item>@string/EE</item>
+        <item>@string/SZ</item>
+        <item>@string/ET</item>
+        <item>@string/FK</item>
+        <item>@string/FO</item>
+        <item>@string/FJ</item>
+        <item>@string/FI</item>
+        <item>@string/FR</item>
+        <item>@string/GF</item>
+        <item>@string/PF</item>
+        <item>@string/GA</item>
+        <item>@string/GM</item>
+        <item>@string/GE</item>
+        <item>@string/DE</item>
+        <item>@string/GH</item>
+        <item>@string/GI</item>
+        <item>@string/GR</item>
+        <item>@string/GL</item>
+        <item>@string/GD</item>
+        <item>@string/GP</item>
+        <item>@string/GU</item>
+        <item>@string/GT</item>
+        <item>@string/GG</item>
+        <item>@string/GN</item>
+        <item>@string/GW</item>
+        <item>@string/GY</item>
+        <item>@string/HT</item>
+        <item>@string/HN</item>
+        <item>@string/HK</item>
+        <item>@string/HU</item>
+        <item>@string/IS</item>
+        <item>@string/IN</item>
+        <item>@string/ID</item>
+        <item>@string/IR</item>
+        <item>@string/IQ</item>
+        <item>@string/IE</item>
+        <item>@string/IM</item>
+        <item>@string/IL</item>
+        <item>@string/IT</item>
+        <item>@string/JM</item>
+        <item>@string/JP</item>
+        <item>@string/JE</item>
+        <item>@string/JO</item>
+        <item>@string/KZ</item>
+        <item>@string/KE</item>
+        <item>@string/KI</item>
+        <item>@string/KW</item>
+        <item>@string/KG</item>
+        <item>@string/LA</item>
+        <item>@string/LV</item>
+        <item>@string/LB</item>
+        <item>@string/LS</item>
+        <item>@string/LR</item>
+        <item>@string/LY</item>
+        <item>@string/LI</item>
+        <item>@string/LT</item>
+        <item>@string/LU</item>
+        <item>@string/MO</item>
+        <item>@string/MG</item>
+        <item>@string/MW</item>
+        <item>@string/MY</item>
+        <item>@string/MV</item>
+        <item>@string/ML</item>
+        <item>@string/MT</item>
+        <item>@string/MH</item>
+        <item>@string/MQ</item>
+        <item>@string/MR</item>
+        <item>@string/MU</item>
+        <item>@string/YT</item>
+        <item>@string/MX</item>
+        <item>@string/FM</item>
+        <item>@string/MD</item>
+        <item>@string/MC</item>
+        <item>@string/MN</item>
+        <item>@string/ME</item>
+        <item>@string/MS</item>
+        <item>@string/MA</item>
+        <item>@string/MZ</item>
+        <item>@string/MM</item>
+        <item>@string/NA</item>
+        <item>@string/NR</item>
+        <item>@string/NP</item>
+        <item>@string/NL</item>
+        <item>@string/NC</item>
+        <item>@string/NZ</item>
+        <item>@string/NI</item>
+        <item>@string/NE</item>
+        <item>@string/NG</item>
+        <item>@string/NU</item>
+        <item>@string/NF</item>
+        <item>@string/KP</item>
+        <item>@string/MK</item>
+        <item>@string/MP</item>
+        <item>@string/NO</item>
+        <item>@string/OM</item>
+        <item>@string/PK</item>
+        <item>@string/PW</item>
+        <item>@string/PS</item>
+        <item>@string/PA</item>
+        <item>@string/PG</item>
+        <item>@string/PY</item>
+        <item>@string/PE</item>
+        <item>@string/PH</item>
+        <item>@string/PL</item>
+        <item>@string/PT</item>
+        <item>@string/PR</item>
+        <item>@string/QA</item>
+        <item>@string/RO</item>
+        <item>@string/RU</item>
+        <item>@string/RW</item>
+        <item>@string/RE</item>
+        <item>@string/WS</item>
+        <item>@string/SM</item>
+        <item>@string/SA</item>
+        <item>@string/SN</item>
+        <item>@string/RS</item>
+        <item>@string/SC</item>
+        <item>@string/SL</item>
+        <item>@string/SG</item>
+        <item>@string/SX</item>
+        <item>@string/SK</item>
+        <item>@string/SI</item>
+        <item>@string/SB</item>
+        <item>@string/SO</item>
+        <item>@string/ZA</item>
+        <item>@string/KR</item>
+        <item>@string/SS</item>
+        <item>@string/ES</item>
+        <item>@string/LK</item>
+        <item>@string/BL</item>
+        <item>@string/SH</item>
+        <item>@string/KN</item>
+        <item>@string/LC</item>
+        <item>@string/MF</item>
+        <item>@string/PM</item>
+        <item>@string/VC</item>
+        <item>@string/SD</item>
+        <item>@string/SR</item>
+        <item>@string/SJ</item>
+        <item>@string/SE</item>
+        <item>@string/CH</item>
+        <item>@string/SY</item>
+        <item>@string/ST</item>
+        <item>@string/TW</item>
+        <item>@string/TJ</item>
+        <item>@string/TZ</item>
+        <item>@string/TH</item>
+        <item>@string/TL</item>
+        <item>@string/TG</item>
+        <item>@string/TK</item>
+        <item>@string/TO</item>
+        <item>@string/TT</item>
+        <item>@string/TN</item>
+        <item>@string/TR</item>
+        <item>@string/TM</item>
+        <item>@string/TC</item>
+        <item>@string/TV</item>
+        <item>@string/VI</item>
+        <item>@string/UG</item>
+        <item>@string/UA</item>
+        <item>@string/AE</item>
+        <item>@string/GB</item>
+        <item>@string/US</item>
+        <item>@string/UY</item>
+        <item>@string/UZ</item>
+        <item>@string/VU</item>
+        <item>@string/VA</item>
+        <item>@string/VE</item>
+        <item>@string/VN</item>
+        <item>@string/WF</item>
+        <item>@string/EH</item>
+        <item>@string/YE</item>
+        <item>@string/ZM</item>
+        <item>@string/ZW</item>
+    </string-array>
+    <integer-array name="countries_phone">
+        <item>93</item>
+        <item>358</item>
+        <item>355</item>
+        <item>213</item>
+        <item>684</item>
+        <item>376</item>
+        <item>244</item>
+        <item>1264</item>
+        <item>1268</item>
+        <item>54</item>
+        <item>374</item>
+        <item>297</item>
+        <item>61</item>
+        <item>43</item>
+        <item>994</item>
+        <item>1242</item>
+        <item>973</item>
+        <item>880</item>
+        <item>1246</item>
+        <item>375</item>
+        <item>32</item>
+        <item>501</item>
+        <item>229</item>
+        <item>1441</item>
+        <item>975</item>
+        <item>591</item>
+        <item>387</item>
+        <item>267</item>
+        <item>55</item>
+        <item>246</item>
+        <item>1284</item>
+        <item>673</item>
+        <item>359</item>
+        <item>226</item>
+        <item>257</item>
+        <item>855</item>
+        <item>237</item>
+        <item>1</item>
+        <item>238</item>
+        <item>599</item>
+        <item>1345</item>
+        <item>236</item>
+        <item>235</item>
+        <item>56</item>
+        <item>86</item>
+        <item>61</item>
+        <item>61</item>
+        <item>57</item>
+        <item>269</item>
+        <item>242</item>
+        <item>243</item>
+        <item>682</item>
+        <item>506</item>
+        <item>385</item>
+        <item>53</item>
+        <item>670</item>
+        <item>357</item>
+        <item>420</item>
+        <item>225</item>
+        <item>45</item>
+        <item>253</item>
+        <item>1767</item>
+        <item>593</item>
+        <item>20</item>
+        <item>503</item>
+        <item>240</item>
+        <item>291</item>
+        <item>372</item>
+        <item>268</item>
+        <item>251</item>
+        <item>500</item>
+        <item>298</item>
+        <item>679</item>
+        <item>358</item>
+        <item>33</item>
+        <item>594</item>
+        <item>689</item>
+        <item>241</item>
+        <item>220</item>
+        <item>995</item>
+        <item>49</item>
+        <item>233</item>
+        <item>350</item>
+        <item>30</item>
+        <item>299</item>
+        <item>1473</item>
+        <item>590</item>
+        <item>1671</item>
+        <item>502</item>
+        <item>1481</item>
+        <item>224</item>
+        <item>245</item>
+        <item>592</item>
+        <item>509</item>
+        <item>504</item>
+        <item>852</item>
+        <item>36</item>
+        <item>354</item>
+        <item>91</item>
+        <item>62</item>
+        <item>98</item>
+        <item>964</item>
+        <item>353</item>
+        <item>44</item>
+        <item>972</item>
+        <item>39</item>
+        <item>1876</item>
+        <item>81</item>
+        <item>44</item>
+        <item>962</item>
+        <item>73</item>
+        <item>254</item>
+        <item>686</item>
+        <item>965</item>
+        <item>996</item>
+        <item>856</item>
+        <item>371</item>
+        <item>961</item>
+        <item>266</item>
+        <item>231</item>
+        <item>218</item>
+        <item>423</item>
+        <item>370</item>
+        <item>352</item>
+        <item>853</item>
+        <item>261</item>
+        <item>265</item>
+        <item>60</item>
+        <item>960</item>
+        <item>223</item>
+        <item>356</item>
+        <item>692</item>
+        <item>596</item>
+        <item>222</item>
+        <item>230</item>
+        <item>262</item>
+        <item>52</item>
+        <item>691</item>
+        <item>373</item>
+        <item>377</item>
+        <item>976</item>
+        <item>382</item>
+        <item>1664</item>
+        <item>212</item>
+        <item>258</item>
+        <item>95</item>
+        <item>264</item>
+        <item>674</item>
+        <item>977</item>
+        <item>31</item>
+        <item>687</item>
+        <item>64</item>
+        <item>505</item>
+        <item>227</item>
+        <item>234</item>
+        <item>683</item>
+        <item>672</item>
+        <item>850</item>
+        <item>389</item>
+        <item>1</item>
+        <item>47</item>
+        <item>968</item>
+        <item>92</item>
+        <item>680</item>
+        <item>970</item>
+        <item>507</item>
+        <item>675</item>
+        <item>595</item>
+        <item>51</item>
+        <item>63</item>
+        <item>48</item>
+        <item>351</item>
+        <item>1809</item>
+        <item>974</item>
+        <item>40</item>
+        <item>7</item>
+        <item>250</item>
+        <item>262</item>
+        <item>685</item>
+        <item>378</item>
+        <item>966</item>
+        <item>221</item>
+        <item>381</item>
+        <item>248</item>
+        <item>232</item>
+        <item>65</item>
+        <item>599</item>
+        <item>421</item>
+        <item>386</item>
+        <item>677</item>
+        <item>252</item>
+        <item>27</item>
+        <item>82</item>
+        <item>211</item>
+        <item>34</item>
+        <item>94</item>
+        <item>590</item>
+        <item>290</item>
+        <item>1869</item>
+        <item>1758</item>
+        <item>590</item>
+        <item>508</item>
+        <item>1784</item>
+        <item>249</item>
+        <item>597</item>
+        <item>47</item>
+        <item>46</item>
+        <item>41</item>
+        <item>963</item>
+        <item>239</item>
+        <item>886</item>
+        <item>992</item>
+        <item>255</item>
+        <item>66</item>
+        <item>670</item>
+        <item>228</item>
+        <item>690</item>
+        <item>676</item>
+        <item>1868</item>
+        <item>216</item>
+        <item>90</item>
+        <item>993</item>
+        <item>1649</item>
+        <item>688</item>
+        <item>1340</item>
+        <item>256</item>
+        <item>380</item>
+        <item>971</item>
+        <item>44</item>
+        <item>1</item>
+        <item>598</item>
+        <item>998</item>
+        <item>678</item>
+        <item>379</item>
+        <item>58</item>
+        <item>84</item>
+        <item>681</item>
+        <item>212</item>
+        <item>967</item>
+        <item>260</item>
+        <item>263</item>
+    </integer-array>
+
+<integer-array name="counties_pre_phone">
+    <item>@array/AF</item>
+    <item>@array/AX</item>
+    <item>@array/AL</item>
+    <item>@array/DZ</item>
+    <item>@array/AS</item>
+    <item>@array/AD</item>
+    <item>@array/AO</item>
+    <item>@array/AI</item>
+    <item>@array/AG</item>
+    <item>@array/AR</item>
+    <item>@array/AM</item>
+    <item>@array/AW</item>
+    <item>@array/AU</item>
+    <item>@array/AT</item>
+    <item>@array/AZ</item>
+    <item>@array/BS</item>
+    <item>@array/BH</item>
+    <item>@array/BD</item>
+    <item>@array/BB</item>
+    <item>@array/BY</item>
+    <item>@array/BE</item>
+    <item>@array/BZ</item>
+    <item>@array/BJ</item>
+    <item>@array/BM</item>
+    <item>@array/BT</item>
+    <item>@array/BO</item>
+    <item>@array/BA</item>
+    <item>@array/BW</item>
+    <item>@array/BR</item>
+    <item>@array/IO</item>
+    <item>@array/VG</item>
+    <item>@array/BN</item>
+    <item>@array/BG</item>
+    <item>@array/BF</item>
+    <item>@array/BI</item>
+    <item>@array/KH</item>
+    <item>@array/CM</item>
+    <item>@array/CA</item>
+    <item>@array/CV</item>
+    <item>@array/BQ</item>
+    <item>@array/KY</item>
+    <item>@array/CF</item>
+    <item>@array/TD</item>
+    <item>@array/CL</item>
+    <item>@array/CN</item>
+    <item>@array/CX</item>
+    <item>@array/CC</item>
+    <item>@array/CO</item>
+    <item>@array/KM</item>
+    <item>@array/CG</item>
+    <item>@array/CD</item>
+    <item>@array/CK</item>
+    <item>@array/CR</item>
+    <item>@array/HR</item>
+    <item>@array/CU</item>
+    <item>@array/CW</item>
+    <item>@array/CY</item>
+    <item>@array/CZ</item>
+    <item>@array/CI</item>
+    <item>@array/DK</item>
+    <item>@array/DJ</item>
+    <item>@array/DM</item>
+    <item>@array/EC</item>
+    <item>@array/EG</item>
+    <item>@array/SV</item>
+    <item>@array/GQ</item>
+    <item>@array/ER</item>
+    <item>@array/EE</item>
+    <item>@array/SZ</item>
+    <item>@array/ET</item>
+    <item>@array/FK</item>
+    <item>@array/FO</item>
+    <item>@array/FJ</item>
+    <item>@array/FI</item>
+    <item>@array/FR</item>
+    <item>@array/GF</item>
+    <item>@array/PF</item>
+    <item>@array/GA</item>
+    <item>@array/GM</item>
+    <item>@array/GE</item>
+    <item>@array/DE</item>
+    <item>@array/GH</item>
+    <item>@array/GI</item>
+    <item>@array/GR</item>
+    <item>@array/GL</item>
+    <item>@array/GD</item>
+    <item>@array/GP</item>
+    <item>@array/GU</item>
+    <item>@array/GT</item>
+    <item>@array/GG</item>
+    <item>@array/GN</item>
+    <item>@array/GW</item>
+    <item>@array/GY</item>
+    <item>@array/HT</item>
+    <item>@array/HN</item>
+    <item>@array/HK</item>
+    <item>@array/HU</item>
+    <item>@array/IS</item>
+    <item>@array/IN</item>
+    <item>@array/ID</item>
+    <item>@array/IR</item>
+    <item>@array/IQ</item>
+    <item>@array/IE</item>
+    <item>@array/IM</item>
+    <item>@array/IL</item>
+    <item>@array/IT</item>
+    <item>@array/JM</item>
+    <item>@array/JP</item>
+    <item>@array/JE</item>
+    <item>@array/JO</item>
+    <item>@array/KZ</item>
+    <item>@array/KE</item>
+    <item>@array/KI</item>
+    <item>@array/KW</item>
+    <item>@array/KG</item>
+    <item>@array/LA</item>
+    <item>@array/LV</item>
+    <item>@array/LB</item>
+    <item>@array/LS</item>
+    <item>@array/LR</item>
+    <item>@array/LY</item>
+    <item>@array/LI</item>
+    <item>@array/LT</item>
+    <item>@array/LU</item>
+    <item>@array/MO</item>
+    <item>@array/MG</item>
+    <item>@array/MW</item>
+    <item>@array/MY</item>
+    <item>@array/MV</item>
+    <item>@array/ML</item>
+    <item>@array/MT</item>
+    <item>@array/MH</item>
+    <item>@array/MQ</item>
+    <item>@array/MR</item>
+    <item>@array/MU</item>
+    <item>@array/YT</item>
+    <item>@array/MX</item>
+    <item>@array/FM</item>
+    <item>@array/MD</item>
+    <item>@array/MC</item>
+    <item>@array/MN</item>
+    <item>@array/ME</item>
+    <item>@array/MS</item>
+    <item>@array/MA</item>
+    <item>@array/MZ</item>
+    <item>@array/MM</item>
+    <item>@array/NA</item>
+    <item>@array/NR</item>
+    <item>@array/NP</item>
+    <item>@array/NL</item>
+    <item>@array/NC</item>
+    <item>@array/NZ</item>
+    <item>@array/NI</item>
+    <item>@array/NE</item>
+    <item>@array/NG</item>
+    <item>@array/NU</item>
+    <item>@array/NF</item>
+    <item>@array/KP</item>
+    <item>@array/MK</item>
+    <item>@array/MP</item>
+    <item>@array/NO</item>
+    <item>@array/OM</item>
+    <item>@array/PK</item>
+    <item>@array/PW</item>
+    <item>@array/PS</item>
+    <item>@array/PA</item>
+    <item>@array/PG</item>
+    <item>@array/PY</item>
+    <item>@array/PE</item>
+    <item>@array/PH</item>
+    <item>@array/PL</item>
+    <item>@array/PT</item>
+    <item>@array/PR</item>
+    <item>@array/QA</item>
+    <item>@array/RO</item>
+    <item>@array/RU</item>
+    <item>@array/RW</item>
+    <item>@array/RE</item>
+    <item>@array/WS</item>
+    <item>@array/SM</item>
+    <item>@array/SA</item>
+    <item>@array/SN</item>
+    <item>@array/RS</item>
+    <item>@array/SC</item>
+    <item>@array/SL</item>
+    <item>@array/SG</item>
+    <item>@array/SX</item>
+    <item>@array/SK</item>
+    <item>@array/SI</item>
+    <item>@array/SB</item>
+    <item>@array/SO</item>
+    <item>@array/ZA</item>
+    <item>@array/KR</item>
+    <item>@array/SS</item>
+    <item>@array/ES</item>
+    <item>@array/LK</item>
+    <item>@array/BL</item>
+    <item>@array/SH</item>
+    <item>@array/KN</item>
+    <item>@array/LC</item>
+    <item>@array/MF</item>
+    <item>@array/PM</item>
+    <item>@array/VC</item>
+    <item>@array/SD</item>
+    <item>@array/SR</item>
+    <item>@array/SJ</item>
+    <item>@array/SE</item>
+    <item>@array/CH</item>
+    <item>@array/SY</item>
+    <item>@array/ST</item>
+    <item>@array/TW</item>
+    <item>@array/TJ</item>
+    <item>@array/TZ</item>
+    <item>@array/TH</item>
+    <item>@array/TL</item>
+    <item>@array/TG</item>
+    <item>@array/TK</item>
+    <item>@array/TO</item>
+    <item>@array/TT</item>
+    <item>@array/TN</item>
+    <item>@array/TR</item>
+    <item>@array/TM</item>
+    <item>@array/TC</item>
+    <item>@array/TV</item>
+    <item>@array/VI</item>
+    <item>@array/UG</item>
+    <item>@array/UA</item>
+    <item>@array/AE</item>
+    <item>@array/GB</item>
+    <item>@array/US</item>
+    <item>@array/UY</item>
+    <item>@array/UZ</item>
+    <item>@array/VU</item>
+    <item>@array/VA</item>
+    <item>@array/VE</item>
+    <item>@array/VN</item>
+    <item>@array/WF</item>
+    <item>@array/EH</item>
+    <item>@array/YE</item>
+    <item>@array/ZM</item>
+    <item>@array/ZW</item>
+</integer-array>
+
+
+    <string-array name="AF">
+        <item>@string/AF</item>
+        <item>93</item>
+    </string-array>
+    <string-array name="AX">
+        <item>@string/AX</item>
+        <item>358</item>
+    </string-array>
+    <string-array name="AL">
+        <item>@string/AL</item>
+        <item>355</item>
+    </string-array>
+    <string-array name="DZ">
+        <item>@string/DZ</item>
+        <item>213</item>
+    </string-array>
+    <string-array name="AS">
+        <item>@string/AS</item>
+        <item>684</item>
+    </string-array>
+    <string-array name="AD">
+        <item>@string/AD</item>
+        <item>376</item>
+    </string-array>
+    <string-array name="AO">
+        <item>@string/AO</item>
+        <item>244</item>
+    </string-array>
+    <string-array name="AI">
+        <item>@string/AI</item>
+        <item>1264</item>
+    </string-array>
+    <string-array name="AG">
+        <item>@string/AG</item>
+        <item>1268</item>
+    </string-array>
+    <string-array name="AR">
+        <item>@string/AR</item>
+        <item>54</item>
+    </string-array>
+    <string-array name="AM">
+        <item>@string/AM</item>
+        <item>374</item>
+    </string-array>
+    <string-array name="AW">
+        <item>@string/AW</item>
+        <item>297</item>
+    </string-array>
+    <string-array name="AU">
+        <item>@string/AU</item>
+        <item>61</item>
+    </string-array>
+    <string-array name="AT">
+        <item>@string/AT</item>
+        <item>43</item>
+    </string-array>
+    <string-array name="AZ">
+        <item>@string/AZ</item>
+        <item>994</item>
+    </string-array>
+    <string-array name="BS">
+        <item>@string/BS</item>
+        <item>1242</item>
+    </string-array>
+    <string-array name="BH">
+        <item>@string/BH</item>
+        <item>973</item>
+    </string-array>
+    <string-array name="BD">
+        <item>@string/BD</item>
+        <item>880</item>
+    </string-array>
+    <string-array name="BB">
+        <item>@string/BB</item>
+        <item>1246</item>
+    </string-array>
+    <string-array name="BY">
+        <item>@string/BY</item>
+        <item>375</item>
+    </string-array>
+    <string-array name="BE">
+        <item>@string/BE</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="BZ">
+        <item>@string/BZ</item>
+        <item>501</item>
+    </string-array>
+    <string-array name="BJ">
+        <item>@string/BJ</item>
+        <item>229</item>
+    </string-array>
+    <string-array name="BM">
+        <item>@string/BM</item>
+        <item>1441</item>
+    </string-array>
+    <string-array name="BT">
+        <item>@string/BT</item>
+        <item>975</item>
+    </string-array>
+    <string-array name="BO">
+        <item>@string/BO</item>
+        <item>591</item>
+    </string-array>
+    <string-array name="BA">
+        <item>@string/BA</item>
+        <item>387</item>
+    </string-array>
+    <string-array name="BW">
+        <item>@string/BW</item>
+        <item>267</item>
+    </string-array>
+    <string-array name="BR">
+        <item>@string/BR</item>
+        <item>55</item>
+    </string-array>
+    <string-array name="IO">
+        <item>@string/IO</item>
+        <item>246</item>
+    </string-array>
+    <string-array name="VG">
+        <item>@string/VG</item>
+        <item>1284</item>
+    </string-array>
+    <string-array name="BN">
+        <item>@string/BN</item>
+        <item>673</item>
+    </string-array>
+    <string-array name="BG">
+        <item>@string/BG</item>
+        <item>359</item>
+    </string-array>
+    <string-array name="BF">
+        <item>@string/BF</item>
+        <item>226</item>
+    </string-array>
+    <string-array name="BI">
+        <item>@string/BI</item>
+        <item>257</item>
+    </string-array>
+    <string-array name="KH">
+        <item>@string/KH</item>
+        <item>855</item>
+    </string-array>
+    <string-array name="CM">
+        <item>@string/CM</item>
+        <item>237</item>
+    </string-array>
+    <string-array name="CA">
+        <item>@string/CA</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="CV">
+        <item>@string/CV</item>
+        <item>238</item>
+    </string-array>
+    <string-array name="BQ">
+        <item>@string/BQ</item>
+        <item>599</item>
+    </string-array>
+    <string-array name="KY">
+        <item>@string/KY</item>
+        <item>1345</item>
+    </string-array>
+    <string-array name="CF">
+        <item>@string/CF</item>
+        <item>236</item>
+    </string-array>
+    <string-array name="TD">
+        <item>@string/TD</item>
+        <item>235</item>
+    </string-array>
+    <string-array name="CL">
+        <item>@string/CL</item>
+        <item>56</item>
+    </string-array>
+    <string-array name="CN">
+        <item>@string/CN</item>
+        <item>86</item>
+    </string-array>
+    <string-array name="CX">
+        <item>@string/CX</item>
+        <item>61</item>
+    </string-array>
+    <string-array name="CC">
+        <item>@string/CC</item>
+        <item>61</item>
+    </string-array>
+    <string-array name="CO">
+        <item>@string/CO</item>
+        <item>57</item>
+    </string-array>
+    <string-array name="KM">
+        <item>@string/KM</item>
+        <item>269</item>
+    </string-array>
+    <string-array name="CG">
+        <item>@string/CG</item>
+        <item>242</item>
+    </string-array>
+    <string-array name="CD">
+        <item>@string/CD</item>
+        <item>243</item>
+    </string-array>
+    <string-array name="CK">
+        <item>@string/CK</item>
+        <item>682</item>
+    </string-array>
+    <string-array name="CR">
+        <item>@string/CR</item>
+        <item>506</item>
+    </string-array>
+    <string-array name="HR">
+        <item>@string/HR</item>
+        <item>385</item>
+    </string-array>
+    <string-array name="CU">
+        <item>@string/CU</item>
+        <item>53</item>
+    </string-array>
+    <string-array name="CW">
+        <item>@string/CW</item>
+        <item>670</item>
+    </string-array>
+    <string-array name="CY">
+        <item>@string/CY</item>
+        <item>357</item>
+    </string-array>
+    <string-array name="CZ">
+        <item>@string/CZ</item>
+        <item>420</item>
+    </string-array>
+    <string-array name="CI">
+        <item>@string/CI</item>
+        <item>225</item>
+    </string-array>
+    <string-array name="DK">
+        <item>@string/DK</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="DJ">
+        <item>@string/DJ</item>
+        <item>253</item>
+    </string-array>
+    <string-array name="DM">
+        <item>@string/DM</item>
+        <item>1767</item>
+    </string-array>
+    <string-array name="EC">
+        <item>@string/EC</item>
+        <item>593</item>
+    </string-array>
+    <string-array name="EG">
+        <item>@string/EG</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="SV">
+        <item>@string/SV</item>
+        <item>503</item>
+    </string-array>
+    <string-array name="GQ">
+        <item>@string/GQ</item>
+        <item>240</item>
+    </string-array>
+    <string-array name="ER">
+        <item>@string/ER</item>
+        <item>291</item>
+    </string-array>
+    <string-array name="EE">
+        <item>@string/EE</item>
+        <item>372</item>
+    </string-array>
+    <string-array name="SZ">
+        <item>@string/SZ</item>
+        <item>268</item>
+    </string-array>
+    <string-array name="ET">
+        <item>@string/ET</item>
+        <item>251</item>
+    </string-array>
+    <string-array name="FK">
+        <item>@string/FK</item>
+        <item>500</item>
+    </string-array>
+    <string-array name="FO">
+        <item>@string/FO</item>
+        <item>298</item>
+    </string-array>
+    <string-array name="FJ">
+        <item>@string/FJ</item>
+        <item>679</item>
+    </string-array>
+    <string-array name="FI">
+        <item>@string/FI</item>
+        <item>358</item>
+    </string-array>
+    <string-array name="FR">
+        <item>@string/FR</item>
+        <item>33</item>
+    </string-array>
+    <string-array name="GF">
+        <item>@string/GF</item>
+        <item>594</item>
+    </string-array>
+    <string-array name="PF">
+        <item>@string/PF</item>
+        <item>689</item>
+    </string-array>
+    <string-array name="GA">
+        <item>@string/GA</item>
+        <item>241</item>
+    </string-array>
+    <string-array name="GM">
+        <item>@string/GM</item>
+        <item>220</item>
+    </string-array>
+    <string-array name="GE">
+        <item>@string/GE</item>
+        <item>995</item>
+    </string-array>
+    <string-array name="DE">
+        <item>@string/DE</item>
+        <item>49</item>
+    </string-array>
+    <string-array name="GH">
+        <item>@string/GH</item>
+        <item>233</item>
+    </string-array>
+    <string-array name="GI">
+        <item>@string/GI</item>
+        <item>350</item>
+    </string-array>
+    <string-array name="GR">
+        <item>@string/GR</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="GL">
+        <item>@string/GL</item>
+        <item>299</item>
+    </string-array>
+    <string-array name="GD">
+        <item>@string/GD</item>
+        <item>1473</item>
+    </string-array>
+    <string-array name="GP">
+        <item>@string/GP</item>
+        <item>590</item>
+    </string-array>
+    <string-array name="GU">
+        <item>@string/GU</item>
+        <item>1671</item>
+    </string-array>
+    <string-array name="GT">
+        <item>@string/GT</item>
+        <item>502</item>
+    </string-array>
+    <string-array name="GG">
+        <item>@string/GG</item>
+        <item>1481</item>
+    </string-array>
+    <string-array name="GN">
+        <item>@string/GN</item>
+        <item>224</item>
+    </string-array>
+    <string-array name="GW">
+        <item>@string/GW</item>
+        <item>245</item>
+    </string-array>
+    <string-array name="GY">
+        <item>@string/GY</item>
+        <item>592</item>
+    </string-array>
+    <string-array name="HT">
+        <item>@string/HT</item>
+        <item>509</item>
+    </string-array>
+    <string-array name="HN">
+        <item>@string/HN</item>
+        <item>504</item>
+    </string-array>
+    <string-array name="HK">
+        <item>@string/HK</item>
+        <item>852</item>
+    </string-array>
+    <string-array name="HU">
+        <item>@string/HU</item>
+        <item>36</item>
+    </string-array>
+    <string-array name="IS">
+        <item>@string/IS</item>
+        <item>354</item>
+    </string-array>
+    <string-array name="IN">
+        <item>@string/IN</item>
+        <item>91</item>
+    </string-array>
+    <string-array name="ID">
+        <item>@string/ID</item>
+        <item>62</item>
+    </string-array>
+    <string-array name="IR">
+        <item>@string/IR</item>
+        <item>98</item>
+    </string-array>
+    <string-array name="IQ">
+        <item>@string/IQ</item>
+        <item>964</item>
+    </string-array>
+    <string-array name="IE">
+        <item>@string/IE</item>
+        <item>353</item>
+    </string-array>
+    <string-array name="IM">
+        <item>@string/IM</item>
+        <item>44</item>
+    </string-array>
+    <string-array name="IL">
+        <item>@string/IL</item>
+        <item>972</item>
+    </string-array>
+    <string-array name="IT">
+        <item>@string/IT</item>
+        <item>39</item>
+    </string-array>
+    <string-array name="JM">
+        <item>@string/JM</item>
+        <item>1876</item>
+    </string-array>
+    <string-array name="JP">
+        <item>@string/JP</item>
+        <item>81</item>
+    </string-array>
+    <string-array name="JE">
+        <item>@string/JE</item>
+        <item>44</item>
+    </string-array>
+    <string-array name="JO">
+        <item>@string/JO</item>
+        <item>962</item>
+    </string-array>
+    <string-array name="KZ">
+        <item>@string/KZ</item>
+        <item>73</item>
+    </string-array>
+    <string-array name="KE">
+        <item>@string/KE</item>
+        <item>254</item>
+    </string-array>
+    <string-array name="KI">
+        <item>@string/KI</item>
+        <item>686</item>
+    </string-array>
+    <string-array name="KW">
+        <item>@string/KW</item>
+        <item>965</item>
+    </string-array>
+    <string-array name="KG">
+        <item>@string/KG</item>
+        <item>996</item>
+    </string-array>
+    <string-array name="LA">
+        <item>@string/LA</item>
+        <item>856</item>
+    </string-array>
+    <string-array name="LV">
+        <item>@string/LV</item>
+        <item>371</item>
+    </string-array>
+    <string-array name="LB">
+        <item>@string/LB</item>
+        <item>961</item>
+    </string-array>
+    <string-array name="LS">
+        <item>@string/LS</item>
+        <item>266</item>
+    </string-array>
+    <string-array name="LR">
+        <item>@string/LR</item>
+        <item>231</item>
+    </string-array>
+    <string-array name="LY">
+        <item>@string/LY</item>
+        <item>218</item>
+    </string-array>
+    <string-array name="LI">
+        <item>@string/LI</item>
+        <item>423</item>
+    </string-array>
+    <string-array name="LT">
+        <item>@string/LT</item>
+        <item>370</item>
+    </string-array>
+    <string-array name="LU">
+        <item>@string/LU</item>
+        <item>352</item>
+    </string-array>
+    <string-array name="MO">
+        <item>@string/MO</item>
+        <item>853</item>
+    </string-array>
+    <string-array name="MG">
+        <item>@string/MG</item>
+        <item>261</item>
+    </string-array>
+    <string-array name="MW">
+        <item>@string/MW</item>
+        <item>265</item>
+    </string-array>
+    <string-array name="MY">
+        <item>@string/MY</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="MV">
+        <item>@string/MV</item>
+        <item>960</item>
+    </string-array>
+    <string-array name="ML">
+        <item>@string/ML</item>
+        <item>223</item>
+    </string-array>
+    <string-array name="MT">
+        <item>@string/MT</item>
+        <item>356</item>
+    </string-array>
+    <string-array name="MH">
+        <item>@string/MH</item>
+        <item>692</item>
+    </string-array>
+    <string-array name="MQ">
+        <item>@string/MQ</item>
+        <item>596</item>
+    </string-array>
+    <string-array name="MR">
+        <item>@string/MR</item>
+        <item>222</item>
+    </string-array>
+    <string-array name="MU">
+        <item>@string/MU</item>
+        <item>230</item>
+    </string-array>
+    <string-array name="YT">
+        <item>@string/YT</item>
+        <item>262</item>
+    </string-array>
+    <string-array name="MX">
+        <item>@string/MX</item>
+        <item>52</item>
+    </string-array>
+    <string-array name="FM">
+        <item>@string/FM</item>
+        <item>691</item>
+    </string-array>
+    <string-array name="MD">
+        <item>@string/MD</item>
+        <item>373</item>
+    </string-array>
+    <string-array name="MC">
+        <item>@string/MC</item>
+        <item>377</item>
+    </string-array>
+    <string-array name="MN">
+        <item>@string/MN</item>
+        <item>976</item>
+    </string-array>
+    <string-array name="ME">
+        <item>@string/ME</item>
+        <item>382</item>
+    </string-array>
+    <string-array name="MS">
+        <item>@string/MS</item>
+        <item>1664</item>
+    </string-array>
+    <string-array name="MA">
+        <item>@string/MA</item>
+        <item>212</item>
+    </string-array>
+    <string-array name="MZ">
+        <item>@string/MZ</item>
+        <item>258</item>
+    </string-array>
+    <string-array name="MM">
+        <item>@string/MM</item>
+        <item>95</item>
+    </string-array>
+    <string-array name="NA">
+        <item>@string/NA</item>
+        <item>264</item>
+    </string-array>
+    <string-array name="NR">
+        <item>@string/NR</item>
+        <item>674</item>
+    </string-array>
+    <string-array name="NP">
+        <item>@string/NP</item>
+        <item>977</item>
+    </string-array>
+    <string-array name="NL">
+        <item>@string/NL</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="NC">
+        <item>@string/NC</item>
+        <item>687</item>
+    </string-array>
+    <string-array name="NZ">
+        <item>@string/NZ</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="NI">
+        <item>@string/NI</item>
+        <item>505</item>
+    </string-array>
+    <string-array name="NE">
+        <item>@string/NE</item>
+        <item>227</item>
+    </string-array>
+    <string-array name="NG">
+        <item>@string/NG</item>
+        <item>234</item>
+    </string-array>
+    <string-array name="NU">
+        <item>@string/NU</item>
+        <item>683</item>
+    </string-array>
+    <string-array name="NF">
+        <item>@string/NF</item>
+        <item>672</item>
+    </string-array>
+    <string-array name="KP">
+        <item>@string/KP</item>
+        <item>850</item>
+    </string-array>
+    <string-array name="MK">
+        <item>@string/MK</item>
+        <item>389</item>
+    </string-array>
+    <string-array name="MP">
+        <item>@string/MP</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="NO">
+        <item>@string/NO</item>
+        <item>47</item>
+    </string-array>
+    <string-array name="OM">
+        <item>@string/OM</item>
+        <item>968</item>
+    </string-array>
+    <string-array name="PK">
+        <item>@string/PK</item>
+        <item>92</item>
+    </string-array>
+    <string-array name="PW">
+        <item>@string/PW</item>
+        <item>680</item>
+    </string-array>
+    <string-array name="PS">
+        <item>@string/PS</item>
+        <item>970</item>
+    </string-array>
+    <string-array name="PA">
+        <item>@string/PA</item>
+        <item>507</item>
+    </string-array>
+    <string-array name="PG">
+        <item>@string/PG</item>
+        <item>675</item>
+    </string-array>
+    <string-array name="PY">
+        <item>@string/PY</item>
+        <item>595</item>
+    </string-array>
+    <string-array name="PE">
+        <item>@string/PE</item>
+        <item>51</item>
+    </string-array>
+    <string-array name="PH">
+        <item>@string/PH</item>
+        <item>63</item>
+    </string-array>
+    <string-array name="PL">
+        <item>@string/PL</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="PT">
+        <item>@string/PT</item>
+        <item>351</item>
+    </string-array>
+    <string-array name="PR">
+        <item>@string/PR</item>
+        <item>1809</item>
+    </string-array>
+    <string-array name="QA">
+        <item>@string/QA</item>
+        <item>974</item>
+    </string-array>
+    <string-array name="RO">
+        <item>@string/RO</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="RU">
+        <item>@string/RU</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="RW">
+        <item>@string/RW</item>
+        <item>250</item>
+    </string-array>
+    <string-array name="RE">
+        <item>@string/RE</item>
+        <item>262</item>
+    </string-array>
+    <string-array name="WS">
+        <item>@string/WS</item>
+        <item>685</item>
+    </string-array>
+    <string-array name="SM">
+        <item>@string/SM</item>
+        <item>378</item>
+    </string-array>
+    <string-array name="SA">
+        <item>@string/SA</item>
+        <item>966</item>
+    </string-array>
+    <string-array name="SN">
+        <item>@string/SN</item>
+        <item>221</item>
+    </string-array>
+    <string-array name="RS">
+        <item>@string/RS</item>
+        <item>381</item>
+    </string-array>
+    <string-array name="SC">
+        <item>@string/SC</item>
+        <item>248</item>
+    </string-array>
+    <string-array name="SL">
+        <item>@string/SL</item>
+        <item>232</item>
+    </string-array>
+    <string-array name="SG">
+        <item>@string/SG</item>
+        <item>65</item>
+    </string-array>
+    <string-array name="SX">
+        <item>@string/SX</item>
+        <item>599</item>
+    </string-array>
+    <string-array name="SK">
+        <item>@string/SK</item>
+        <item>421</item>
+    </string-array>
+    <string-array name="SI">
+        <item>@string/SI</item>
+        <item>386</item>
+    </string-array>
+    <string-array name="SB">
+        <item>@string/SB</item>
+        <item>677</item>
+    </string-array>
+    <string-array name="SO">
+        <item>@string/SO</item>
+        <item>252</item>
+    </string-array>
+    <string-array name="ZA">
+        <item>@string/ZA</item>
+        <item>27</item>
+    </string-array>
+    <string-array name="KR">
+        <item>@string/KR</item>
+        <item>82</item>
+    </string-array>
+    <string-array name="SS">
+        <item>@string/SS</item>
+        <item>211</item>
+    </string-array>
+    <string-array name="ES">
+        <item>@string/ES</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="LK">
+        <item>@string/LK</item>
+        <item>94</item>
+    </string-array>
+    <string-array name="BL">
+        <item>@string/BL</item>
+        <item>590</item>
+    </string-array>
+    <string-array name="SH">
+        <item>@string/SH</item>
+        <item>290</item>
+    </string-array>
+    <string-array name="KN">
+        <item>@string/KN</item>
+        <item>1869</item>
+    </string-array>
+    <string-array name="LC">
+        <item>@string/LC</item>
+        <item>1758</item>
+    </string-array>
+    <string-array name="MF">
+        <item>@string/MF</item>
+        <item>590</item>
+    </string-array>
+    <string-array name="PM">
+        <item>@string/PM</item>
+        <item>508</item>
+    </string-array>
+    <string-array name="VC">
+        <item>@string/VC</item>
+        <item>1784</item>
+    </string-array>
+    <string-array name="SD">
+        <item>@string/SD</item>
+        <item>249</item>
+    </string-array>
+    <string-array name="SR">
+        <item>@string/SR</item>
+        <item>597</item>
+    </string-array>
+    <string-array name="SJ">
+        <item>@string/SJ</item>
+        <item>47</item>
+    </string-array>
+    <string-array name="SE">
+        <item>@string/SE</item>
+        <item>46</item>
+    </string-array>
+    <string-array name="CH">
+        <item>@string/CH</item>
+        <item>41</item>
+    </string-array>
+    <string-array name="SY">
+        <item>@string/SY</item>
+        <item>963</item>
+    </string-array>
+    <string-array name="ST">
+        <item>@string/ST</item>
+        <item>239</item>
+    </string-array>
+    <string-array name="TW">
+        <item>@string/TW</item>
+        <item>886</item>
+    </string-array>
+    <string-array name="TJ">
+        <item>@string/TJ</item>
+        <item>992</item>
+    </string-array>
+    <string-array name="TZ">
+        <item>@string/TZ</item>
+        <item>255</item>
+    </string-array>
+    <string-array name="TH">
+        <item>@string/TH</item>
+        <item>66</item>
+    </string-array>
+    <string-array name="TL">
+        <item>@string/TL</item>
+        <item>670</item>
+    </string-array>
+    <string-array name="TG">
+        <item>@string/TG</item>
+        <item>228</item>
+    </string-array>
+    <string-array name="TK">
+        <item>@string/TK</item>
+        <item>690</item>
+    </string-array>
+    <string-array name="TO">
+        <item>@string/TO</item>
+        <item>676</item>
+    </string-array>
+    <string-array name="TT">
+        <item>@string/TT</item>
+        <item>1868</item>
+    </string-array>
+    <string-array name="TN">
+        <item>@string/TN</item>
+        <item>216</item>
+    </string-array>
+    <string-array name="TR">
+        <item>@string/TR</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="TM">
+        <item>@string/TM</item>
+        <item>993</item>
+    </string-array>
+    <string-array name="TC">
+        <item>@string/TC</item>
+        <item>1649</item>
+    </string-array>
+    <string-array name="TV">
+        <item>@string/TV</item>
+        <item>688</item>
+    </string-array>
+    <string-array name="VI">
+        <item>@string/VI</item>
+        <item>1340</item>
+    </string-array>
+    <string-array name="UG">
+        <item>@string/UG</item>
+        <item>256</item>
+    </string-array>
+    <string-array name="UA">
+        <item>@string/UA</item>
+        <item>380</item>
+    </string-array>
+    <string-array name="AE">
+        <item>@string/AE</item>
+        <item>971</item>
+    </string-array>
+    <string-array name="GB">
+        <item>@string/GB</item>
+        <item>44</item>
+    </string-array>
+    <string-array name="US">
+        <item>@string/US</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="UY">
+        <item>@string/UY</item>
+        <item>598</item>
+    </string-array>
+    <string-array name="UZ">
+        <item>@string/UZ</item>
+        <item>998</item>
+    </string-array>
+    <string-array name="VU">
+        <item>@string/VU</item>
+        <item>678</item>
+    </string-array>
+    <string-array name="VA">
+        <item>@string/VA</item>
+        <item>379</item>
+    </string-array>
+    <string-array name="VE">
+        <item>@string/VE</item>
+        <item>58</item>
+    </string-array>
+    <string-array name="VN">
+        <item>@string/VN</item>
+        <item>84</item>
+    </string-array>
+    <string-array name="WF">
+        <item>@string/WF</item>
+        <item>681</item>
+    </string-array>
+    <string-array name="EH">
+        <item>@string/EH</item>
+        <item>212</item>
+    </string-array>
+    <string-array name="YE">
+        <item>@string/YE</item>
+        <item>967</item>
+    </string-array>
+    <string-array name="ZM">
+        <item>@string/ZM</item>
+        <item>260</item>
+    </string-array>
+    <string-array name="ZW">
+        <item>@string/ZW</item>
+        <item>263</item>
+    </string-array>
+</resources>
