@@ -5,29 +5,26 @@ import android.util.Log
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.io.BufferedReader
-import java.io.InputStream
 import java.io.InputStreamReader
 import java.lang.Exception
 import java.lang.StringBuilder
 import java.net.HttpURLConnection
 import java.net.URL
-import java.net.URLConnection
 
 /**
  * Copyright (c) 2022 Raysharp.cn. All rights reserved
  *
  * HttpRepository
+ * 协程切换线程
  * @author longyanghe
  * @date 2022-03-24
  */
-class HttpRepository(val request:String) {
+class HttpRepository(val url:String) {
     suspend fun makeHttpRequest():Result<String>{
         return withContext(Dispatchers.IO){
-            val url = URL(request)
-            (url.openConnection() as HttpURLConnection).run {
-                Log.e("makeHttpRequest","responseCode = "+responseCode)
-                Log.e("makeHttpRequest","responseMessage = "+responseMessage)
-                Log.e("makeHttpRequest","ismainthread = "+ (Looper.myLooper() == Looper.getMainLooper()))
+            val url = URL(url)
+            val httpURLConnection = url.openConnection() as HttpURLConnection
+            httpURLConnection.run {
                 BufferedReader(InputStreamReader(inputStream)).useLines {
                     val stringBuilder = StringBuilder()
                     it.forEach {
@@ -36,7 +33,7 @@ class HttpRepository(val request:String) {
                     return@withContext Result.Success(stringBuilder.toString())
                 }
             }
-            return@withContext Result.Error(Exception("123456"))
+            return@withContext Result.Error(Exception("404"))
         }
     }
 

@@ -8,14 +8,16 @@ import androidx.lifecycle.viewModelScope
 import com.example.kotlinapplication.ThreadUtils.mainThread
 import com.example.kotlinapplication.coroutine.HttpRepository
 import kotlinx.coroutines.delay
+import kotlinx.coroutines.flow.MutableSharedFlow
+import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.launch
 import java.lang.Exception
 
 fun simpleFlow() = flow {
     Log.e("simpleFlow","simpleFlow start>>>>>>>>>>>")
-    for (i in 0..3){
-        delay(1000)
+    for (i in 0..12){
+        delay(500)
         emit(i)
     }
 }
@@ -23,6 +25,9 @@ class NameViewModel: ViewModel() {
     val currentName:MutableLiveData<String> by lazy{
         MutableLiveData<String>()
     }
+
+    val currentFlow = MutableStateFlow("")
+
     val httpRepository = HttpRepository("https://www.so.com/")
 
     fun HttpRequest(){
@@ -35,7 +40,9 @@ class NameViewModel: ViewModel() {
             Log.e("makeHttpRequest","makeHttpRequest = "
             +",ismainthread = "+ (Looper.myLooper() == Looper.getMainLooper()) )
             when(makeHttpRequest){
-                is com.example.kotlinapplication.coroutine.Result.Success<String>->{}
+                is com.example.kotlinapplication.coroutine.Result.Success<String>->{
+                    Log.e("makeHttpRequest","result = "+makeHttpRequest.data)
+                }
                 else ->{}
             }
 

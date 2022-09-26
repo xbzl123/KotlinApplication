@@ -1,5 +1,6 @@
 package com.example.kotlinapplication
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.BitmapFactory
@@ -13,27 +14,26 @@ import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
-import androidx.activity.result.contract.ActivityResultContracts
+//import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.app.ActivityCompat
+import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.lifecycle.lifecycleScope
 import com.example.kotlinapplication.Picker.OnActionComplete
-import com.example.kotlinapplication.ThreadUtils.mainThread
 import com.example.kotlinapplication.livedata.NameViewModel
 import com.example.kotlinapplication.livedata.simpleFlow
 import com.example.kotlinapplication.objecttest.AsyncTaskAlternative
 import kotlinx.coroutines.*
-import kotlinx.coroutines.flow.FlowCollector
-import kotlinx.coroutines.flow.flow
 import java.util.*
 import kotlin.collections.ArrayList
 import kotlin.properties.Delegates
 
+@InternalCoroutinesApi
 class MainActivity : AppCompatActivity(),ActionInterface {
 
-    @InternalCoroutinesApi
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+//        mBinding = DataBindingUtil.inflate(layoutInflater,R.layout.activity_main,parent,false)
         setContentView(R.layout.activity_main)
         //可变参数
 //        vars(1,2,3,4,5)  // 输出12345
@@ -75,7 +75,8 @@ class MainActivity : AppCompatActivity(),ActionInterface {
         }
 
         liveDataTest1.setOnClickListener {
-            name = device.name
+//            name = device.name
+            startActivity(Intent(this,TestActivity::class.java))
         }
         requestPermission.setOnClickListener {
             handlerPermission()
@@ -85,7 +86,7 @@ class MainActivity : AppCompatActivity(),ActionInterface {
             Toast.makeText(this,"test!!!",Toast.LENGTH_LONG).show()
             Log.e("simpleFlow","testFlowIsCode")
             model.runIOProcess({
-                testFlowIsCode()
+                testFlowIsCode(it)
 //                flow<Int> {
 //                    for (i in 0..it){
 //                        delay(500)
@@ -184,6 +185,12 @@ class MainActivity : AppCompatActivity(),ActionInterface {
 
         })
     }
+
+//    val registerForActivityResult =
+//        registerForActivityResult(ActivityResultContracts.GetContent()) {
+//            val toString = it.toString()
+//            BitmapFactory.decodeFile(toString)
+//        }
     private fun handlerPermission(){
         val storage = android.Manifest.permission.WRITE_EXTERNAL_STORAGE
         val checkSelfPermission = ActivityCompat.checkSelfPermission(this,storage)
@@ -195,12 +202,6 @@ class MainActivity : AppCompatActivity(),ActionInterface {
 //            }
         }
 
-        val registerForActivityResult =
-        registerForActivityResult(ActivityResultContracts.GetContent()) {
-
-            val toString = it.toString()
-            BitmapFactory.decodeFile(toString)
-        }
 //        val registerForActivityResult =
 //            registerForActivityResult(ActivityResultContracts.TakePicturePreview()) {
 //                if (it != null){
@@ -255,21 +256,15 @@ class MainActivity : AppCompatActivity(),ActionInterface {
     }
 
     @InternalCoroutinesApi
-    fun testFlowIsCode() = runBlocking {
+    fun testFlowIsCode(count: Int) = runBlocking {
         val flow = simpleFlow()
         Log.e("simpleFlow","simpleFlow collect>>>>>>>>>>>")
 
-        flow.collect(object : FlowCollector<Int> {
-            override suspend fun emit(value: Int) {
-                Log.e("simpleFlow","simpleFlow start>>>>>>>>>>>"+value)
-            }
-        })
-//        println("Flow Collect again")
-//        flow.collect(object : FlowCollector<Int> {
-//            override suspend fun emit(value: Int) {
-//                Log.e("simpleFlow","simpleFlow start>>>>>>>>>>>"+value)
-//            }
-//        })
+//        flow.collect { value -> //                if (value > count){
+//            //                    return
+//            //                }
+//            Log.e("simpleFlow", "simpleFlow start>>>>>>>>>>>" + value)
+//        }
     }
     companion object {
         // Used to load the 'native-lib' library on application startup.
